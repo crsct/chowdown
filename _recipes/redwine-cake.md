@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Red Wine Cake"
-image: mapo-tofu.jpg
+image: redwine-cake.jpg
 
 tags:
 - party
@@ -32,3 +32,5 @@ directions:
 - add chocolate, cocoa and the spices
 - bake for 60 min on 200deg
 ---
+
+Image by Karen Neoh

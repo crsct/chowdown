@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Beetroot Carpaccio"
+image: beetroot-carpaccio.jpg
 
 tags:
 - side
@@ -20,3 +21,5 @@ directions:
 - serve!
 
 ---
+
+Image by Mark Longair

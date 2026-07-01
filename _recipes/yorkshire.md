@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Yorkshire Pudding"
+image: yorkshire-pudding.jpg
 
 tags:
 - sidedish
@@ -24,3 +25,5 @@ directions:
 - serve immediately
 
 ---
+
+Image by Mark Walker

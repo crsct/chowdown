@@ -2,6 +2,7 @@
 
 layout: recipe
 titel: "Muhalabia - Maroccan Pudding"
+image: muhalabia.jpg
 
 tags:
 - desserts
@@ -24,3 +25,5 @@ directions:
 - garnish with almond shards
 
 ---
+
+Image by Kanko*
