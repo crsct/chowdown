@@ -3,6 +3,7 @@
 layout: recipe
 titel: "Muhalabia - Maroccan Pudding"
 image: muhalabia.jpg
+imagecredit: https://flic.kr/p/3t3sc
 
 tags:
 - desserts

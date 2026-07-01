@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Red Wine Cake"
 image: redwine-cake.jpg
+imagecredit: https://flic.kr/p/9jrqCx Karen Neoh
 
 tags:
 - party
@@ -33,4 +34,3 @@ directions:
 - bake for 60 min on 200deg
 ---
 
-Image by Karen Neoh

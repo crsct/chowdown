@@ -3,6 +3,8 @@
 layout: recipe
 title:  "Pineapple Oishi"
 image: pineapple-oishi.jpg
+imagecredit: https://flic.kr/p/4x3Jtk
+
 tags:
 - Snack
 
