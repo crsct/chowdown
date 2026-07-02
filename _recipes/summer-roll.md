@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Summer Roll"
-image: .jpg
+image: summerroll.jpg
 
 tags:
 - main
